@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Engineer with 4 years of experience designing,<br>building, and optimizing scalable ETL pipelines and<br>analytics solutions on Google Cloud Platform.<br>Strong expertise in BigQuery, Cloud Composer<br>(Airflow), Dataflow, and SQL optimization. Proven<br>track record of improving data processing efficiency,<br>enabling real-time analytics, and supporting<br>enterprise decision-making for large-scale clients<br>including Google.
+ᴰᵃᵗᵃ ᴱⁿᵍⁱⁿᵉᵉʳ ʷⁱᵗʰ ⁴ ʸᵉᵃʳˢ ᵒᶠ ᵉˣᵖᵉʳⁱᵉⁿᶜᵉ ᵈᵉˢⁱᵍⁿⁱⁿᵍ,<ᵇʳ>ᵇᵘⁱˡᵈⁱⁿᵍ, ᵃⁿᵈ ᵒᵖᵗⁱᵐⁱᶻⁱⁿᵍ ˢᶜᵃˡᵃᵇˡᵉ ᴱᵀᴸ ᵖⁱᵖᵉˡⁱⁿᵉˢ ᵃⁿᵈ<ᵇʳ>ᵃⁿᵃˡʸᵗⁱᶜˢ ˢᵒˡᵘᵗⁱᵒⁿˢ ᵒⁿ ᴳᵒᵒᵍˡᵉ ᶜˡᵒᵘᵈ ᴾˡᵃᵗᶠᵒʳᵐ.<ᵇʳ>ˢᵗʳᵒⁿᵍ ᵉˣᵖᵉʳᵗⁱˢᵉ ⁱⁿ ᴮⁱᵍQᵘᵉʳʸ, ᶜˡᵒᵘᵈ ᶜᵒᵐᵖᵒˢᵉʳ<ᵇʳ>(ᴬⁱʳᶠˡᵒʷ), ᴰᵃᵗᵃᶠˡᵒʷ, ᵃⁿᵈ ˢQᴸ ᵒᵖᵗⁱᵐⁱᶻᵃᵗⁱᵒⁿ. ᴾʳᵒᵛᵉⁿ<ᵇʳ>ᵗʳᵃᶜᵏ ʳᵉᶜᵒʳᵈ ᵒᶠ ⁱᵐᵖʳᵒᵛⁱⁿᵍ ᵈᵃᵗᵃ ᵖʳᵒᶜᵉˢˢⁱⁿᵍ ᵉᶠᶠⁱᶜⁱᵉⁿᶜʸ,<ᵇʳ>ᵉⁿᵃᵇˡⁱⁿᵍ ʳᵉᵃˡ-ᵗⁱᵐᵉ ᵃⁿᵃˡʸᵗⁱᶜˢ, ᵃⁿᵈ ˢᵘᵖᵖᵒʳᵗⁱⁿᵍ<ᵇʳ>ᵉⁿᵗᵉʳᵖʳⁱˢᵉ ᵈᵉᶜⁱˢⁱᵒⁿ-ᵐᵃᵏⁱⁿᵍ ᶠᵒʳ ˡᵃʳᵍᵉ-ˢᶜᵃˡᵉ ᶜˡⁱᵉⁿᵗˢ<ᵇʳ>ⁱⁿᶜˡᵘᵈⁱⁿᵍ ᴳᵒᵒᵍˡᵉ.
 
 
 # 💻 Tech Stack:
